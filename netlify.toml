@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://noraneers.studio.design/:splat"
+  to = "https://noraneers.studio.site/:splat"
   status = 200
   force = true
 
